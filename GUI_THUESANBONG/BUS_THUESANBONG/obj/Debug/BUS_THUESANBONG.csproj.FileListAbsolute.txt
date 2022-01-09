@@ -1,0 +1,9 @@
+C:\Users\Administrator\source\repos\GUI_THUESANBONG\BUS_THUESANBONG\bin\Debug\BUS_THUESANBONG.dll
+C:\Users\Administrator\source\repos\GUI_THUESANBONG\BUS_THUESANBONG\bin\Debug\BUS_THUESANBONG.pdb
+C:\Users\Administrator\source\repos\GUI_THUESANBONG\BUS_THUESANBONG\bin\Debug\DAL_THUESANBONG.dll
+C:\Users\Administrator\source\repos\GUI_THUESANBONG\BUS_THUESANBONG\bin\Debug\DAL_THUESANBONG.pdb
+C:\Users\Administrator\source\repos\GUI_THUESANBONG\BUS_THUESANBONG\obj\Debug\BUS_THUESANBONG.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\GUI_THUESANBONG\BUS_THUESANBONG\obj\Debug\BUS_THUESANBONG.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\GUI_THUESANBONG\BUS_THUESANBONG\obj\Debug\BUS_THUESANBONG.csproj.CopyComplete
+C:\Users\Administrator\source\repos\GUI_THUESANBONG\BUS_THUESANBONG\obj\Debug\BUS_THUESANBONG.dll
+C:\Users\Administrator\source\repos\GUI_THUESANBONG\BUS_THUESANBONG\obj\Debug\BUS_THUESANBONG.pdb
